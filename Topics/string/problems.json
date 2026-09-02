@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-02T07:52:43.938Z",
+  "updatedAt": "2026-09-02T07:54:19.430Z",
   "problems": [
     {
       "frontendId": "131",
@@ -62,7 +62,7 @@
           "filename": "0844-backspace-string-compare.py",
           "path": "0844-backspace-string-compare/0844-backspace-string-compare.py",
           "sha": "b8a4e627a70cfb24d9b409d0de6a5b79946b5ad4",
-          "lastSyncedAt": "2026-09-02T07:50:59.049Z"
+          "lastSyncedAt": "2026-09-02T07:54:19.430Z"
         }
       ]
     },
