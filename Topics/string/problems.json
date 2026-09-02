@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-02T06:02:10.502Z",
+  "updatedAt": "2026-09-02T06:02:26.061Z",
   "problems": [
     {
       "frontendId": "131",
@@ -63,6 +63,26 @@
           "path": "0844-backspace-string-compare/0844-backspace-string-compare.py",
           "sha": "b8a4e627a70cfb24d9b409d0de6a5b79946b5ad4",
           "lastSyncedAt": "2026-09-02T06:02:10.502Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "problemName": "1528-shuffle-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-string/",
+      "folderPath": "1528-shuffle-string/",
+      "readmePath": "1528-shuffle-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1528-shuffle-string.py",
+          "path": "1528-shuffle-string/1528-shuffle-string.py",
+          "sha": "a79b563a7fb67fd32253e1516b7de93a65efa056",
+          "lastSyncedAt": "2026-09-02T06:02:26.061Z"
         }
       ]
     }
