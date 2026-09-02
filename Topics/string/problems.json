@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-02T05:59:37.187Z",
+  "updatedAt": "2026-09-02T06:02:10.502Z",
   "problems": [
     {
       "frontendId": "131",
@@ -43,6 +43,26 @@
           "path": "0241-different-ways-to-add-parentheses/0241-different-ways-to-add-parentheses.py",
           "sha": "c6153df9cc45ee10f73884db4ad2a916ceeb9c10",
           "lastSyncedAt": "2026-09-02T05:58:42.308Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "problemName": "0844-backspace-string-compare",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+      "folderPath": "0844-backspace-string-compare/",
+      "readmePath": "0844-backspace-string-compare/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0844-backspace-string-compare.py",
+          "path": "0844-backspace-string-compare/0844-backspace-string-compare.py",
+          "sha": "b8a4e627a70cfb24d9b409d0de6a5b79946b5ad4",
+          "lastSyncedAt": "2026-09-02T06:02:10.502Z"
         }
       ]
     }
