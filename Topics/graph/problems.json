@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-02T06:00:31.602Z",
+  "updatedAt": "2026-09-02T06:00:36.988Z",
   "problems": [
     {
       "frontendId": "207",
@@ -23,6 +23,26 @@
           "path": "0207-course-schedule/0207-course-schedule.py",
           "sha": "d5239a03c944c842cb710113cc37b663b256ad9b",
           "lastSyncedAt": "2026-09-02T06:00:10.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "problemName": "0997-find-the-town-judge",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+      "folderPath": "0997-find-the-town-judge/",
+      "readmePath": "0997-find-the-town-judge/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0997-find-the-town-judge.py",
+          "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
+          "sha": "ec24b372ae8d0a0ec3ec22401a64dab5d7aea046",
+          "lastSyncedAt": "2026-09-02T06:00:36.988Z"
         }
       ]
     },
