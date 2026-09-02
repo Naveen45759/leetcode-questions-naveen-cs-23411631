@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-02T05:58:42.308Z",
+  "updatedAt": "2026-09-02T06:02:00.562Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0002-add-two-numbers.py",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.py",
+          "sha": "1af27de0a5c151ccc7b6f561b156fd9cc827ef8f",
+          "lastSyncedAt": "2026-09-02T06:02:00.562Z"
+        }
+      ]
+    },
     {
       "frontendId": "241",
       "title": "Different Ways to Add Parentheses",
