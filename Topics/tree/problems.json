@@ -4,8 +4,28 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-02T06:00:49.588Z",
+  "updatedAt": "2026-09-02T06:01:07.227Z",
   "problems": [
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0098-validate-binary-search-tree.py",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.py",
+          "sha": "64038f0947516bdaf726868906a8a5749db3b319",
+          "lastSyncedAt": "2026-09-02T06:01:07.227Z"
+        }
+      ]
+    },
     {
       "frontendId": "230",
       "title": "Kth Smallest Element in a BST",
