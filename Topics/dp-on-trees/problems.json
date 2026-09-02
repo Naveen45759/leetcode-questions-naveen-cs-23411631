@@ -4,7 +4,7 @@
     "slug": "dp-on-trees",
     "name": "DP on Trees"
   },
-  "updatedAt": "2026-09-02T07:50:16.348Z",
+  "updatedAt": "2026-09-02T07:53:42.178Z",
   "problems": [
     {
       "frontendId": "543",
@@ -22,7 +22,7 @@
           "filename": "0543-diameter-of-binary-tree.py",
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.py",
           "sha": "acef1ebd22dd7893ae8525fe5294342c6c6cf590",
-          "lastSyncedAt": "2026-09-02T07:50:16.348Z"
+          "lastSyncedAt": "2026-09-02T07:53:42.178Z"
         }
       ]
     }
