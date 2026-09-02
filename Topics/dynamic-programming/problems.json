@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-02T05:58:42.308Z",
+  "updatedAt": "2026-09-02T05:59:37.187Z",
   "problems": [
+    {
+      "frontendId": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "problemName": "0131-palindrome-partitioning",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+      "folderPath": "0131-palindrome-partitioning/",
+      "readmePath": "0131-palindrome-partitioning/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0131-palindrome-partitioning.py",
+          "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.py",
+          "sha": "c971180a6e2221e282c2b525676afd24d5ef223f",
+          "lastSyncedAt": "2026-09-02T05:59:37.187Z"
+        }
+      ]
+    },
     {
       "frontendId": "241",
       "title": "Different Ways to Add Parentheses",
