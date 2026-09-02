@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-02T07:53:42.178Z",
+  "updatedAt": "2026-09-02T07:53:51.531Z",
   "problems": [
     {
       "frontendId": "98",
@@ -62,7 +62,7 @@
           "filename": "0199-binary-tree-right-side-view.py",
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.py",
           "sha": "2327c340c9260cb3894a77b5d00d45cde5c102c1",
-          "lastSyncedAt": "2026-09-02T07:50:28.580Z"
+          "lastSyncedAt": "2026-09-02T07:53:51.531Z"
         }
       ]
     },
