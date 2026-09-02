@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-02T07:50:37.782Z",
+  "updatedAt": "2026-09-02T07:53:24.645Z",
   "problems": [
     {
       "frontendId": "98",
@@ -82,7 +82,7 @@
           "filename": "0230-kth-smallest-element-in-a-bst.py",
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.py",
           "sha": "f54fe6fc2607477dd7527c86637dbdae8b272b0c",
-          "lastSyncedAt": "2026-09-02T07:49:53.339Z"
+          "lastSyncedAt": "2026-09-02T07:53:24.645Z"
         }
       ]
     },
