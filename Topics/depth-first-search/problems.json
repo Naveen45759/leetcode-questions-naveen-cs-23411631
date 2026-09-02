@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-02T07:52:11.366Z",
+  "updatedAt": "2026-09-02T07:53:02.265Z",
   "problems": [
     {
       "frontendId": "98",
@@ -62,7 +62,7 @@
           "filename": "0207-course-schedule.py",
           "path": "0207-course-schedule/0207-course-schedule.py",
           "sha": "d5239a03c944c842cb710113cc37b663b256ad9b",
-          "lastSyncedAt": "2026-09-02T07:49:27.642Z"
+          "lastSyncedAt": "2026-09-02T07:53:02.265Z"
         }
       ]
     },
