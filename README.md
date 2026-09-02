@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 6 | 14 | 0 |
+| 35 | 6 | 14 | 0 |
 
 ## Activity
 
