@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-02T09:01:49.244Z",
+  "updatedAt": "2026-09-02T09:02:53.047Z",
   "problems": [
+    {
+      "frontendId": "695",
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "problemName": "0695-max-area-of-island",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island/",
+      "folderPath": "0695-max-area-of-island/",
+      "readmePath": "0695-max-area-of-island/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0695-max-area-of-island.py",
+          "path": "0695-max-area-of-island/0695-max-area-of-island.py",
+          "sha": "2649c571a7ce314255fe2fca5457ed5e96fb349c",
+          "lastSyncedAt": "2026-09-02T09:02:53.047Z"
+        }
+      ]
+    },
     {
       "frontendId": "994",
       "title": "Rotting Oranges",
