@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-02T06:00:36.988Z",
+  "updatedAt": "2026-09-02T06:02:26.061Z",
   "problems": [
     {
       "frontendId": "90",
@@ -143,6 +143,26 @@
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "ec24b372ae8d0a0ec3ec22401a64dab5d7aea046",
           "lastSyncedAt": "2026-09-02T06:00:36.988Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "problemName": "1528-shuffle-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-string/",
+      "folderPath": "1528-shuffle-string/",
+      "readmePath": "1528-shuffle-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1528-shuffle-string.py",
+          "path": "1528-shuffle-string/1528-shuffle-string.py",
+          "sha": "a79b563a7fb67fd32253e1516b7de93a65efa056",
+          "lastSyncedAt": "2026-09-02T06:02:26.061Z"
         }
       ]
     }
