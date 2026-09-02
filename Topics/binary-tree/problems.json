@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-02T07:50:06.974Z",
+  "updatedAt": "2026-09-02T07:50:16.348Z",
   "problems": [
     {
       "frontendId": "98",
@@ -102,7 +102,7 @@
           "filename": "0543-diameter-of-binary-tree.py",
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.py",
           "sha": "acef1ebd22dd7893ae8525fe5294342c6c6cf590",
-          "lastSyncedAt": "2026-09-02T06:01:18.678Z"
+          "lastSyncedAt": "2026-09-02T07:50:16.348Z"
         }
       ]
     }
