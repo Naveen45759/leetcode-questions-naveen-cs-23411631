@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack"
+  },
+  "updatedAt": "2026-09-02T06:02:10.502Z",
+  "problems": [
+    {
+      "frontendId": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "problemName": "0844-backspace-string-compare",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+      "folderPath": "0844-backspace-string-compare/",
+      "readmePath": "0844-backspace-string-compare/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0844-backspace-string-compare.py",
+          "path": "0844-backspace-string-compare/0844-backspace-string-compare.py",
+          "sha": "b8a4e627a70cfb24d9b409d0de6a5b79946b5ad4",
+          "lastSyncedAt": "2026-09-02T06:02:10.502Z"
+        }
+      ]
+    }
+  ]
+}
