@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-02T07:52:57.273Z",
+  "updatedAt": "2026-09-02T07:53:18.035Z",
   "problems": [
     {
       "frontendId": "90",
@@ -142,7 +142,7 @@
           "filename": "0997-find-the-town-judge.py",
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "ec24b372ae8d0a0ec3ec22401a64dab5d7aea046",
-          "lastSyncedAt": "2026-09-02T07:49:45.860Z"
+          "lastSyncedAt": "2026-09-02T07:53:18.035Z"
         }
       ]
     },
