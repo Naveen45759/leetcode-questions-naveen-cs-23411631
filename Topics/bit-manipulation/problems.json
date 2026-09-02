@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-02T05:59:25.221Z",
+  "updatedAt": "2026-09-02T06:12:03.680Z",
   "problems": [
     {
       "frontendId": "90",
@@ -22,7 +22,7 @@
           "filename": "0090-subsets-ii.py",
           "path": "0090-subsets-ii/0090-subsets-ii.py",
           "sha": "d534230f0ae65ba178156798cd64cff813ed80ef",
-          "lastSyncedAt": "2026-09-02T05:59:25.221Z"
+          "lastSyncedAt": "2026-09-02T06:12:03.680Z"
         }
       ]
     }
