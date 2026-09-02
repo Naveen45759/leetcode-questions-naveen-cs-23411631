@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-02T06:00:10.885Z",
+  "updatedAt": "2026-09-02T06:00:31.602Z",
   "problems": [
     {
       "frontendId": "207",
@@ -23,6 +23,26 @@
           "path": "0207-course-schedule/0207-course-schedule.py",
           "sha": "d5239a03c944c842cb710113cc37b663b256ad9b",
           "lastSyncedAt": "2026-09-02T06:00:10.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1791",
+      "title": "Find Center of Star Graph",
+      "slug": "find-center-of-star-graph",
+      "problemName": "1791-find-center-of-star-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-center-of-star-graph/",
+      "folderPath": "1791-find-center-of-star-graph/",
+      "readmePath": "1791-find-center-of-star-graph/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1791-find-center-of-star-graph.py",
+          "path": "1791-find-center-of-star-graph/1791-find-center-of-star-graph.py",
+          "sha": "b29bfa1e5013b0f25e21fe17f583c342e1c0055b",
+          "lastSyncedAt": "2026-09-02T06:00:31.602Z"
         }
       ]
     }
