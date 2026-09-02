@@ -4,7 +4,7 @@
     "slug": "topological-sort",
     "name": "Topological Sort"
   },
-  "updatedAt": "2026-09-02T06:00:10.885Z",
+  "updatedAt": "2026-09-02T07:49:27.642Z",
   "problems": [
     {
       "frontendId": "207",
@@ -22,7 +22,7 @@
           "filename": "0207-course-schedule.py",
           "path": "0207-course-schedule/0207-course-schedule.py",
           "sha": "d5239a03c944c842cb710113cc37b663b256ad9b",
-          "lastSyncedAt": "2026-09-02T06:00:10.885Z"
+          "lastSyncedAt": "2026-09-02T07:49:27.642Z"
         }
       ]
     }
