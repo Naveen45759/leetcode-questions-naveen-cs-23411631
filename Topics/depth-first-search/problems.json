@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-02T06:00:10.885Z",
+  "updatedAt": "2026-09-02T06:00:49.588Z",
   "problems": [
     {
       "frontendId": "207",
@@ -23,6 +23,26 @@
           "path": "0207-course-schedule/0207-course-schedule.py",
           "sha": "d5239a03c944c842cb710113cc37b663b256ad9b",
           "lastSyncedAt": "2026-09-02T06:00:10.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "problemName": "0230-kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "folderPath": "0230-kth-smallest-element-in-a-bst/",
+      "readmePath": "0230-kth-smallest-element-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0230-kth-smallest-element-in-a-bst.py",
+          "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.py",
+          "sha": "f54fe6fc2607477dd7527c86637dbdae8b272b0c",
+          "lastSyncedAt": "2026-09-02T06:00:49.588Z"
         }
       ]
     },
