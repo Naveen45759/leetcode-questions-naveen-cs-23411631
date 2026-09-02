@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search"
+  },
+  "updatedAt": "2026-09-02T06:00:02.351Z",
+  "problems": [
+    {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "problemName": "0875-koko-eating-bananas",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "folderPath": "0875-koko-eating-bananas/",
+      "readmePath": "0875-koko-eating-bananas/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0875-koko-eating-bananas.py",
+          "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.py",
+          "sha": "1dd14df998d5a968c71cb4fb8c01e1ec603c9577",
+          "lastSyncedAt": "2026-09-02T06:00:02.351Z"
+        }
+      ]
+    }
+  ]
+}
