@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-02T06:00:10.885Z",
+  "updatedAt": "2026-09-02T06:01:30.906Z",
   "problems": [
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0199-binary-tree-right-side-view.py",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.py",
+          "sha": "2327c340c9260cb3894a77b5d00d45cde5c102c1",
+          "lastSyncedAt": "2026-09-02T06:01:30.906Z"
+        }
+      ]
+    },
     {
       "frontendId": "207",
       "title": "Course Schedule",
