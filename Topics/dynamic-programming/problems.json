@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-02T05:59:37.187Z",
+  "updatedAt": "2026-09-02T05:59:44.746Z",
   "problems": [
     {
       "frontendId": "131",
@@ -43,6 +43,26 @@
           "path": "0241-different-ways-to-add-parentheses/0241-different-ways-to-add-parentheses.py",
           "sha": "c6153df9cc45ee10f73884db4ad2a916ceeb9c10",
           "lastSyncedAt": "2026-09-02T05:58:42.308Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "0435-non-overlapping-intervals/",
+      "readmePath": "0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0435-non-overlapping-intervals.py",
+          "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.py",
+          "sha": "570e40e5dd62e42ab6ecf15e3391198bf3a2e3a8",
+          "lastSyncedAt": "2026-09-02T05:59:44.746Z"
         }
       ]
     }
