@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-02T07:48:56.253Z",
+  "updatedAt": "2026-09-02T07:49:05.720Z",
   "problems": [
     {
       "frontendId": "90",
@@ -42,7 +42,7 @@
           "filename": "0131-palindrome-partitioning.py",
           "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.py",
           "sha": "c971180a6e2221e282c2b525676afd24d5ef223f",
-          "lastSyncedAt": "2026-09-02T06:12:12.224Z"
+          "lastSyncedAt": "2026-09-02T07:49:05.720Z"
         }
       ]
     }
