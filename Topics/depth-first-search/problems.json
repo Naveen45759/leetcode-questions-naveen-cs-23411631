@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-02T07:49:53.339Z",
+  "updatedAt": "2026-09-02T07:50:06.974Z",
   "problems": [
     {
       "frontendId": "98",
@@ -22,7 +22,7 @@
           "filename": "0098-validate-binary-search-tree.py",
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.py",
           "sha": "64038f0947516bdaf726868906a8a5749db3b319",
-          "lastSyncedAt": "2026-09-02T06:01:07.227Z"
+          "lastSyncedAt": "2026-09-02T07:50:06.974Z"
         }
       ]
     },
