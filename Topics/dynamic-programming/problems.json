@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-02T07:49:12.389Z",
+  "updatedAt": "2026-09-02T07:52:20.789Z",
   "problems": [
     {
       "frontendId": "131",
@@ -42,7 +42,7 @@
           "filename": "0241-different-ways-to-add-parentheses.py",
           "path": "0241-different-ways-to-add-parentheses/0241-different-ways-to-add-parentheses.py",
           "sha": "c6153df9cc45ee10f73884db4ad2a916ceeb9c10",
-          "lastSyncedAt": "2026-09-02T07:48:35.511Z"
+          "lastSyncedAt": "2026-09-02T07:52:20.789Z"
         }
       ]
     },
