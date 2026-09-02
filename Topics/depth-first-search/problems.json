@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-02T06:01:18.678Z",
+  "updatedAt": "2026-09-02T06:01:30.906Z",
   "problems": [
     {
       "frontendId": "98",
@@ -23,6 +23,26 @@
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.py",
           "sha": "64038f0947516bdaf726868906a8a5749db3b319",
           "lastSyncedAt": "2026-09-02T06:01:07.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0199-binary-tree-right-side-view.py",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.py",
+          "sha": "2327c340c9260cb3894a77b5d00d45cde5c102c1",
+          "lastSyncedAt": "2026-09-02T06:01:30.906Z"
         }
       ]
     },
