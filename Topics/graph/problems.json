@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-02T07:49:42.395Z",
+  "updatedAt": "2026-09-02T07:49:45.860Z",
   "problems": [
     {
       "frontendId": "207",
@@ -42,7 +42,7 @@
           "filename": "0997-find-the-town-judge.py",
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "ec24b372ae8d0a0ec3ec22401a64dab5d7aea046",
-          "lastSyncedAt": "2026-09-02T06:00:36.988Z"
+          "lastSyncedAt": "2026-09-02T07:49:45.860Z"
         }
       ]
     },
