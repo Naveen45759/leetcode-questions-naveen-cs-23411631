@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-02T07:53:51.531Z",
+  "updatedAt": "2026-09-02T07:53:59.439Z",
   "problems": [
     {
       "frontendId": "98",
@@ -42,7 +42,7 @@
           "filename": "0102-binary-tree-level-order-traversal.py",
           "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py",
           "sha": "0a9c1ea8cb31cdebcaeea44e387d2f55db11f498",
-          "lastSyncedAt": "2026-09-02T07:50:37.782Z"
+          "lastSyncedAt": "2026-09-02T07:53:59.439Z"
         }
       ]
     },
