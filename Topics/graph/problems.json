@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-02T07:49:27.642Z",
+  "updatedAt": "2026-09-02T07:49:42.395Z",
   "problems": [
     {
       "frontendId": "207",
@@ -62,7 +62,7 @@
           "filename": "1791-find-center-of-star-graph.py",
           "path": "1791-find-center-of-star-graph/1791-find-center-of-star-graph.py",
           "sha": "b29bfa1e5013b0f25e21fe17f583c342e1c0055b",
-          "lastSyncedAt": "2026-09-02T06:00:31.602Z"
+          "lastSyncedAt": "2026-09-02T07:49:42.395Z"
         }
       ]
     }
