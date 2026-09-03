@@ -1,26 +1,17 @@
 class Solution:
     def numDecodings(self, s):
-        n = len(s)
+        a, b = 1, 0
 
-        if s[0] == '0':
-            return 0
-
-        prev2 = 1
-        prev1 = 1
-
-        for i in range(1, n):
-            curr = 0
+        for i in range(len(s) - 1, -1, -1):
+            cur = 0
 
             if s[i] != '0':
-                curr += prev1
+                cur = a
 
-            two_digit = int(s[i - 1:i + 1])
+                if i + 1 < len(s) and int(s[i:i+2]) <= 26:
+                    cur += b
 
-            if 10 <= two_digit <= 26:
-                curr += prev2
+            b, a = a, cur
 
-            prev2 = prev1
-            prev1 = curr
-
-        return prev1
+        return a
         
